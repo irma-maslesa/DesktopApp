@@ -1,0 +1,24 @@
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\bin\Debug\PRIII.exe.config
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\bin\Debug\PRIII.exe
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\bin\Debug\PRIII.pdb
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\obj\Debug\PRIII.csprojAssemblyReference.cache
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\obj\Debug\PRIII.Properties.Resources.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\obj\Debug\PRIII.csproj.GenerateResource.cache
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\obj\Debug\PRIII.exe
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\obj\Debug\PRIII.pdb
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\obj\Debug\PRIII.SignIn.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\obj\Debug\PRIII.SignUp.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\obj\Debug\PRIII.KorisniciAdmin.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\PRIII\PRIII\obj\Debug\PRIII.MDIParent.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\bin\Debug\PRIII.exe.config
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\bin\Debug\PRIII.exe
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\bin\Debug\PRIII.pdb
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\obj\Debug\PRIII.csprojAssemblyReference.cache
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\obj\Debug\PRIII.KorisniciAdmin.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\obj\Debug\PRIII.MDIParent.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\obj\Debug\PRIII.SignIn.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\obj\Debug\PRIII.Properties.Resources.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\obj\Debug\PRIII.SignUp.resources
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\obj\Debug\PRIII.csproj.GenerateResource.cache
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\obj\Debug\PRIII.exe
+D:\OneDrive - Faculty of Information Technologies\Desktop\Predavanje7 -\PRIII\obj\Debug\PRIII.pdb
